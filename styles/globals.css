@@ -13,7 +13,7 @@ body {
   text-rendering: optimizeSpeed;
   line-height: 1.5;
   padding-bottom: 250px;
-  background: url("../public/blur.png");
+  background-image: url("../public/blur.png");
 }
 
 /* Inherit fonts for inputs and buttons */
